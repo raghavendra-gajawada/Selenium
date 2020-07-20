@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11453" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11453" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:22Z">
+      <class name="InterviewQuestions.DuplicateElementinArrayList">
+        <test-method status="PASS" signature="duplicateElementFinding_Method1()[pri:0, instance:InterviewQuestions.DuplicateElementinArrayList@5cee5251]" name="duplicateElementFinding_Method1" duration-ms="2" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateElementFinding_Method1 -->
+        <test-method status="PASS" signature="duplicateElementFinding_Method2()[pri:0, instance:InterviewQuestions.DuplicateElementinArrayList@5cee5251]" name="duplicateElementFinding_Method2" duration-ms="3" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateElementFinding_Method2 -->
+      </class> <!-- InterviewQuestions.DuplicateElementinArrayList -->
+      <class name="InterviewQuestions.charOccuranceInString">
+        <test-method status="PASS" signature="charOccuranceInString()[pri:0, instance:InterviewQuestions.charOccuranceInString@3967e60c]" name="charOccuranceInString" duration-ms="13" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- charOccuranceInString -->
+      </class> <!-- InterviewQuestions.charOccuranceInString -->
+      <class name="InterviewQuestions.findSecondLargestInArray">
+        <test-method status="PASS" signature="secondlargestInArray()[pri:0, instance:InterviewQuestions.findSecondLargestInArray@60d8c9b7]" name="secondlargestInArray" duration-ms="1" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondlargestInArray -->
+      </class> <!-- InterviewQuestions.findSecondLargestInArray -->
+      <class name="InterviewQuestions.sum_of_a_digitValue">
+        <test-method status="PASS" signature="sumofdigits_of_number()[pri:0, instance:InterviewQuestions.sum_of_a_digitValue@433d61fb]" name="sumofdigits_of_number" duration-ms="1" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumofdigits_of_number -->
+      </class> <!-- InterviewQuestions.sum_of_a_digitValue -->
+      <class name="InterviewQuestions.stringReversePrograms">
+        <test-method status="PASS" signature="StringReverseMethod1()[pri:0, instance:InterviewQuestions.stringReversePrograms@7adda9cc]" name="StringReverseMethod1" duration-ms="3" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StringReverseMethod1 -->
+        <test-method status="PASS" signature="StringReverseMethod2()[pri:0, instance:InterviewQuestions.stringReversePrograms@7adda9cc]" name="StringReverseMethod2" duration-ms="4" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StringReverseMethod2 -->
+        <test-method status="PASS" signature="StringReverseMethod3()[pri:0, instance:InterviewQuestions.stringReversePrograms@7adda9cc]" name="StringReverseMethod3" duration-ms="1" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StringReverseMethod3 -->
+      </class> <!-- InterviewQuestions.stringReversePrograms -->
+      <class name="InterviewQuestions.sampleprogram">
+        <test-method status="PASS" signature="sampleprograms()[pri:0, instance:InterviewQuestions.sampleprogram@48aaecc3]" name="sampleprograms" duration-ms="11260" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleprograms -->
+      </class> <!-- InterviewQuestions.sampleprogram -->
+      <class name="InterviewQuestions.AnagramOfStrings">
+        <test-method status="PASS" signature="anagramofStrings()[pri:0, instance:InterviewQuestions.AnagramOfStrings@794cb805]" name="anagramofStrings" duration-ms="19" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anagramofStrings -->
+      </class> <!-- InterviewQuestions.AnagramOfStrings -->
+      <class name="InterviewQuestions.RemoveSpacesFromString">
+        <test-method status="PASS" signature="SpaceRemoveFromString()[pri:0, instance:InterviewQuestions.RemoveSpacesFromString@20d28811]" name="SpaceRemoveFromString" duration-ms="5" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpaceRemoveFromString -->
+        <test-method status="PASS" signature="spaceremovalwithoutreplace()[pri:0, instance:InterviewQuestions.RemoveSpacesFromString@20d28811]" name="spaceremovalwithoutreplace" duration-ms="1" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spaceremovalwithoutreplace -->
+      </class> <!-- InterviewQuestions.RemoveSpacesFromString -->
+      <class name="InterviewQuestions.ArmstrongNumber">
+        <test-method status="PASS" signature="ArmStrongNumber()[pri:0, instance:InterviewQuestions.ArmstrongNumber@5c909414]" name="ArmStrongNumber" duration-ms="3" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArmStrongNumber -->
+      </class> <!-- InterviewQuestions.ArmstrongNumber -->
+      <class name="InterviewQuestions.EqualityOfTwoArrays">
+        <test-method status="PASS" signature="equalityofArrayUsingEqualMethod()[pri:0, instance:InterviewQuestions.EqualityOfTwoArrays@7c0c77c7]" name="equalityofArrayUsingEqualMethod" duration-ms="3" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- equalityofArrayUsingEqualMethod -->
+        <test-method status="PASS" signature="equalityofArrays()[pri:0, instance:InterviewQuestions.EqualityOfTwoArrays@7c0c77c7]" name="equalityofArrays" duration-ms="10" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- equalityofArrays -->
+      </class> <!-- InterviewQuestions.EqualityOfTwoArrays -->
+      <class name="InterviewQuestions.duplicateCharCount">
+        <test-method status="PASS" signature="duplicatecharcount()[pri:0, instance:InterviewQuestions.duplicateCharCount@3cc2931c]" name="duplicatecharcount" duration-ms="2" started-at="2020-07-17T11:40:11Z" finished-at="2020-07-17T11:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicatecharcount -->
+      </class> <!-- InterviewQuestions.duplicateCharCount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

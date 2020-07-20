@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Tests">
+
+
+
+<test name="sample tests">
+    <classes>
+        <class name="InterviewQuestions.sampleprogram"></class>  
+    </classes>
+</test>
+
+
+
+
+
+</suite>
+

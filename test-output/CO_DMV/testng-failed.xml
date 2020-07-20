@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [CO_DMV]">
+  <test name="Multi Logins(failed)">
+    <classes>
+      <class name="crmuploads.crmuploads">
+        <methods>
+          <include name="gateencertsupload"/>
+        </methods>
+      </class> <!-- crmuploads.crmuploads -->
+    </classes>
+  </test> <!-- Multi Logins(failed) -->
+</suite> <!-- Failed suite [CO_DMV] -->

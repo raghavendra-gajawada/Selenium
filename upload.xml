@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GA_TEEN">
+
+
+
+
+<test name="upload Certificates">
+    <classes>
+        <class name="com.UploadCertificates" ></class>  
+    </classes>
+</test>
+
+
+
+
+</suite>
+
