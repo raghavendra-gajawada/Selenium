@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite verbose="0" name="Failed suite [CO_DMV]">
-  <test name="Multi Logins(failed)">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Selenium Tests]">
+  <test name="sample tests(failed)">
     <classes>
-      <class name="com.LoginsTest">
+      <class name="InterviewQuestions.sampleprogram">
         <methods>
-          <include name="tearDown"/>
-          <include name="test"/>
-          <include name="before"/>
+          <include name="sampleprograms"/>
         </methods>
-      </class> <!-- com.LoginsTest -->
+      </class> <!-- InterviewQuestions.sampleprogram -->
     </classes>
-  </test> <!-- Multi Logins(failed) -->
-</suite> <!-- Failed suite [CO_DMV] -->
+  </test> <!-- sample tests(failed) -->
+</suite> <!-- Failed suite [Selenium Tests] -->

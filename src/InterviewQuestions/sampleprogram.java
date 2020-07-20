@@ -12,7 +12,7 @@ public class sampleprogram{
 	
 
 	@Test
-	public static void sampleprograms()throws MalformedURLException, IOException, APIException
+	public static void sampleprograms()throws MalformedURLException, IOException, APIException, InterruptedException
 	{
 				System.out.println("Programs to execute ");
 				System.out.println("anagram of strings");		
@@ -31,10 +31,12 @@ public class sampleprogram{
 				stringReversePrograms.StringReverseMethod1();
 				
 				System.out.println("opening a browser");
-				System.setProperty("webdriver.chrome.driver", "C:\\Users\\Administrator\\Desktop\\seleniumProjects\\SeleniumTests\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\chromedriver.exe");
 				// Initialize browser.
 				WebDriver driver=new ChromeDriver();
 				driver.get("https://www.google.com");
+				Thread.sleep(10000);
+				driver.quit();
 				
 				
 	}
