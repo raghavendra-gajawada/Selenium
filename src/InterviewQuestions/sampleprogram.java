@@ -31,7 +31,8 @@ public class sampleprogram{
 				stringReversePrograms.StringReverseMethod1();
 				
 				System.out.println("opening a browser");
-				System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/chromedriver.exe");
+//				System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/chromedriver");
 				// Initialize browser.
 				WebDriver driver=new ChromeDriver();
 				driver.get("https://www.google.com");
